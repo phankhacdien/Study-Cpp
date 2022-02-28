@@ -1,1 +1,0 @@
-D:\Sherlock\3. Software Eng\C++ document\Cpp code\2. DSA\Sort\Brute force Sort_Ascending sort\Brute force Sort_Ascending sort\x64\Debug\Brute force Sort_Ascending sort.exe
