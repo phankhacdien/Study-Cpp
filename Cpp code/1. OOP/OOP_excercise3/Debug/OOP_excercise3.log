@@ -1,0 +1,3 @@
+﻿  Source.cpp
+Source.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Animal::InfoDisp(void)" (?InfoDisp@Animal@@UAEXXZ)
+D:\Sherlock\3. Software Eng\C++ document\Cpp code\OOP_excercise3\Debug\OOP_excercise3.exe : fatal error LNK1120: 1 unresolved externals

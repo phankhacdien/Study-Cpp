@@ -1,0 +1,2 @@
+﻿  Source.cpp
+D:\Sherlock\3. Software Eng\C++ document\Test\Source.cpp(60): error C4700: uninitialized local variable 'count' used
