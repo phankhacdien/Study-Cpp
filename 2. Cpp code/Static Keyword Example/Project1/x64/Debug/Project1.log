@@ -1,3 +1,2 @@
 ﻿  Source.cpp
-C:\Users\Hello world\Desktop\New folder (2)\Project1\Source.cpp(21,36): warning C4305: 'initializing': truncation from 'double' to 'float'
-  Project1.vcxproj -> C:\Users\Hello world\Desktop\New folder (2)\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> G:\Sherlock_DIEN\1. SW developer study\2. C++\2. Cpp code\Static Keyword Example\Project1\x64\Debug\Project1.exe

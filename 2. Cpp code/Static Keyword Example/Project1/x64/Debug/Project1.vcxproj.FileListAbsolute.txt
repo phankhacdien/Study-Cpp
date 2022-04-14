@@ -1,1 +1,2 @@
 C:\Users\Hello world\Desktop\New folder (2)\Project1\x64\Debug\Project1.exe
+G:\Sherlock_DIEN\1. SW developer study\2. C++\2. Cpp code\Static Keyword Example\Project1\x64\Debug\Project1.exe
